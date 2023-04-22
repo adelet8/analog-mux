@@ -1,0 +1,8 @@
+v {xschem version=3.1.0 file_version=1.2
+}
+G {}
+K {}
+V {}
+S {}
+E {}
+C {analog_mux_files 2/analog_mux.sym} -1710 -1100 0 0 {name=x1}
